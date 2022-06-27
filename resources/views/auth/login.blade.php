@@ -36,8 +36,8 @@
               </div>
               
               <div class="mb-3 form-check">
-                <input type="checkbox" class="form-check-input text-white"" id="exampleCheck1">
-                <label class="form-check-label text-white" for="exampleCheck1">Check me out</label>
+                <input type="checkbox" class="form-check-input text-white" id="exampleCheck1" name="remember">
+                <label class="form-check-label text-white" for="exampleCheck1" >Check me out</label>
               </div>
               <div class="d-flex justify-content-center"> 
               <button type="submit" class="btn btn-primary w-50 d-flex justify-content-center ">Submit</button>
